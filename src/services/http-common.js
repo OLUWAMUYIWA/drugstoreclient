@@ -3,7 +3,7 @@ import axios from 'axios';
 
 //const axios = _axios.create()
 
-const BASE_URL = `http://adel-pcruq.ondigitalocean.app:8080/`
+const BASE_URL = `https://adel-pcruq.ondigitalocean.app:8080/`
 // const BASE_URL = `http://localhost:3000/`;
 
 const HTTP = axios.create({
